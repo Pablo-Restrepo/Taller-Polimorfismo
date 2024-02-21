@@ -1,5 +1,5 @@
 # Taller Polimorfismo
 ## Integrantes
 * Santiago Agredo Vallejo
-* Pablo José Restrepo Ruiz
+* Pablo Restrepo
 * Jojan Esteban Serna Serna
